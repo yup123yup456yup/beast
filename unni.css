@@ -1,0 +1,10 @@
+.set{
+   background-color: aliceblue;
+   border-color: black;
+   border-radius: 10px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
